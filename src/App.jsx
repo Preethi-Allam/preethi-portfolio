@@ -281,28 +281,29 @@ function App() {
         </div>
       </section>
 
-      <footer className="site-footer">
-        <h3>Preethi Allam</h3>
-        <p>Aspiring Python Full Stack Developer</p>
 
-        <div className="footer-links">
-          <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
-            GitHub
-          </a>
+      <div className="footer-links">
+        <a
+          href="https://github.com/Preethi-Allam"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
+        </a>
 
-          <a href="https://www.linkedin.com/in/allam-preethi-divya-jyothi" target="_blank" rel="noopener noreferrer">
-            LinkedIn
-          </a>
+        <a
+          href="https://www.linkedin.com/in/allam-preethi-divya-jyothi"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          LinkedIn
+        </a>
 
-          <a href="mailto:preethi.allam4@gmail.com">
-            Email
-          </a>
-        </div>
+        <a href="mailto:preethi.allam4@gmail.com">
+          Email
+        </a>
+      </div>
 
-        <div className="footer-bottom">
-          © 2026 Preethi Allam. All rights reserved.
-        </div>
-      </footer>
 
 
     </main>
